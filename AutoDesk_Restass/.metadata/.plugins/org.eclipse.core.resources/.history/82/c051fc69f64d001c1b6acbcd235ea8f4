@@ -1,0 +1,14 @@
+package testScriptt;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+public class Tc_02Irctc {
+
+	@Test
+	public void mainTest() {
+		WebDriver driver=new ChromeDriver();
+		driver.get("https://www.irctc.co.in/nget/train-search");
+	}
+}

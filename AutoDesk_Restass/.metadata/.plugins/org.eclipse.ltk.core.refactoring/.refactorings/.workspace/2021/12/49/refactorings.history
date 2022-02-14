@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;AutoDesk_Assg&apos;" deleteContents="false" description="Delete resource &apos;AutoDesk_Assg&apos;" element1="/AutoDesk_Assg" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1638526985222"/>&#x0A;<refactoring comment="Delete resource &apos;Auto_Desk_Programms&apos;" deleteContents="false" description="Delete resource &apos;Auto_Desk_Programms&apos;" element1="/Auto_Desk_Programms" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1638527004879"/>
+</session>
